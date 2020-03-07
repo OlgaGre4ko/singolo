@@ -1,0 +1,142 @@
+.red-box {
+    background-color: #f06c64;
+    height: 648px;
+}
+
+.line-red {
+    background-color: #ea676b;
+    height: 6px;
+}
+
+.blue-box {
+    background-color: #2d303a;
+    height: 90px;
+}
+
+.title-3 {
+    font-family: "Lato Black", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #f0d8d9;
+    margin-left: 39px;
+    margin-right: 40px;
+    padding-top: 33px;
+    letter-spacing: -0.7px;
+    text-align: justify;
+    font-weight: lighter;
+}
+
+.text-3 {
+    font-family: "Lato Light", sans-serif;
+    font-size: 18px;
+    color: #f0d8d9;
+    margin-left: 41px;
+    margin-right: 40px;
+    letter-spacing: -0.5px;
+    line-height: 30px;
+    margin-top: -12px;
+    font-weight: 200;
+}
+
+.form-box {
+    float: left;
+    width: 620px;
+    margin-left: 40px;    
+    margin-top: 24px;
+}
+
+.form {
+    margin-bottom: 13px;
+    color: #f48c8f;
+    font-family: "Lato Regular", sans-serif;
+    font-size: 12px;
+    padding-top: 9px;
+    padding-left: 15px;
+    background-color: #d6564f;
+    border: transparent;
+    border-radius: 5px;
+}
+
+.button {
+    border: 0;
+    background: #d6564f;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-family: "Lato Regular", sans-serif;
+    font-size: 12px;
+    color: #f0d8d9;
+
+}
+  .button:hover {
+    background: white;
+    color: black;
+}
+
+.copyright {
+    float: left;
+    margin-left: 42px;
+    margin-top: 30px;
+    color: #666d89;
+    font-family: "Lato Regular", sans-serif;
+    font-size: 12px;    
+}
+
+.socialmedia-2 {
+    float: right;
+    margin-top: 22px;
+    margin-right: 9px;    
+}
+
+.socialmedia-2:hover {
+    opacity: 0.5;
+}
+
+.contact-box {
+    float: right;
+    width: 300px;
+    margin-right: 40px;
+    margin-top: 26px;
+}
+
+.contact {
+    font-family: "Lato Black", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f0d8d9;
+}
+
+.contact-2 {
+    font-family: "Lato Regular", sans-serif;
+    font-size: 12px;
+    color: #f0d8d9; 
+    line-height: 22px;
+    margin-top: 6px;
+    text-align: justify;
+    margin-bottom: 22px;
+}
+
+.contacts {
+    margin-top: 0px;
+}
+
+.contact-icons {
+    float: left;
+    width: 13px;
+}
+
+a.contact-text {
+    font-family: "Lato Regular", sans-serif;
+    font-size: 12px;
+    color: #f0d8d9;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(assets/Lato-Black.ttf) format('truetype');
+    src: url(assets/Lato-Bold.ttf) format('truetype');
+    src: url(assets/Lato-Light.ttf) format('truetype');
+    src: url(assets/Lato-Regular.ttf) format('truetype');       
+}
